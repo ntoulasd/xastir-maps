@@ -1,5 +1,5 @@
 # xastir-maps
-Xastir Online Maps
+Xastir Online Maps working at 15/3/2015
 
 Map source : Open street map
 
